@@ -1,2 +1,1 @@
-#4 - Create and Setup Spring Boot Project in IntelliJ
-testi
+#5 - Configure Kafka Producer and Consumer valmis!
