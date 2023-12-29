@@ -1,2 +1,1 @@
-#5 - Configure Kafka Producer and Consumer valmis!
-uus toisen koneen git push testi
+#6 - Create Kafka Topic
