@@ -1,1 +1,1 @@
-#9 - Create Kafka Consumer
+#10 - Configure Kafka Producer and Consumer for JSON Message
