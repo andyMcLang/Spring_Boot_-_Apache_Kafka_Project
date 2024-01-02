@@ -25,7 +25,7 @@ public class JsonKafkaProducer {
 
         Message<User> message = MessageBuilder
                 .withPayload(data)
-                .setHeader(KafkaHeaders.TOPIC, "andylang")
+                .setHeader(KafkaHeaders.TOPIC, "andylang_json")
                 .build();
 
         kafkaTemplate.send(message);

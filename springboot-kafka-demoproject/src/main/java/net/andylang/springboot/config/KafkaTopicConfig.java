@@ -12,5 +12,12 @@ public class KafkaTopicConfig {
     public NewTopic andylangTopic() {
         return TopicBuilder.name("andylang")
                 .build();
+
+    }
+
+    @Bean
+    public NewTopic andylangJsonTopic() {
+        return TopicBuilder.name("andylang_json")
+                .build();
     }
 }
